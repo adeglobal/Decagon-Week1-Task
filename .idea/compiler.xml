@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SchoolModel" />
         <module name="weekOneTask" />
+        <module name="week-1-task-adeglobal-master-personalCopy" />
       </profile>
     </annotationProcessing>
   </component>
